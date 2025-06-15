@@ -69,6 +69,9 @@ if ($mysqli->connect_error) {
     die("Veritabanı bağlantısı başarısız: " . $mysqli->connect_error);
 }
 ?>
+```
+
+---
 # 🔐 Admin Girişi İçin Kullanıcı Oluşturma
 
 ```sql
@@ -82,6 +85,9 @@ SELECT rolID FROM rol WHERE rol_adi = 'Admin';
 -- Admin rolünü kullanıcıya ata
 INSERT INTO kullanici_rol (kullaniciID, rolID)
 VALUES ((SELECT kullaniciID FROM kullanici WHERE kullanici_adi = 'adminuser'), 1);
+```
+
+---
 # 📸 Ekran Görüntüleri
 
 ![Ürün Listesi](assets/e-market.png)
