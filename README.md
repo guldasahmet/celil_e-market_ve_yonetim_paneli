@@ -99,7 +99,7 @@ VALUES ((SELECT kullaniciID FROM kullanici WHERE kullanici_adi = 'adminuser'), 1
 # 🎥 Tanıtım Videosu
 
 👉 Tanıtım Videosunu İzle (YouTube)  
-*Lütfen* `https://www.youtube.com/watch?v=Jy1KBQAxRFE` *kısmını kendi videonla değiştir.*
+[Buraya tıklayarak videoyu izleyebilirsin](https://www.youtube.com/watch?v=VIDEO_ID)
 
 ---
 
