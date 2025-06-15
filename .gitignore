@@ -1,0 +1,13 @@
+# Veritabanı bağlantısı (gizli)
+db.php
+
+# Kullanıcı tarafından yüklenen dosyalar
+/uploads/
+
+# IDE klasörleri (VSCode, PHPStorm, NetBeans vs.)
+.vscode/
+.idea/
+
+# Sistem dosyaları
+.DS_Store
+Thumbs.db
