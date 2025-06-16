@@ -58,10 +58,10 @@ Kendi veritabanı bilgilerinizi girin:
 
 ```php
 <?php
-$servername = "localhost";
-$username = "root";
+$servername = "";
+$username = "";
 $password = "";
-$dbname = "epazar_db";
+$dbname = "";
 
 $mysqli = new mysqli($servername, $username, $password, $dbname);
 
