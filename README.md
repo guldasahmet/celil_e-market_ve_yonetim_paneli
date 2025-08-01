@@ -92,8 +92,11 @@ VALUES ((SELECT kullaniciID FROM kullanici WHERE kullanici_adi = 'adminuser'), 1
 # 🔐 Siteye ulaşmak için 
 
 http://95.130.171.20/~st22360859080
-[İnternet sitesine buraya tıklayarak ulaşabilirsin]([https://www.youtube.com/watch?v=Jy1KBQAxRFE&t=5s](http://95.130.171.20/~st22360859080)
+[İnternet sitesine buraya tıklayarak ulaşabilirsin](http://95.130.171.20/~st22360859080)
+
+
 ---
+
 
 # 📸 Ekran Görüntüleri
 
